@@ -1,1 +1,1 @@
-# collab-sync
+Collaborative sync node.
